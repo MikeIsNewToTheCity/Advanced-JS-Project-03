@@ -1,0 +1,31 @@
+/*
+Name: Mike Villeneuve
+Date: 8/10/2020
+*/
+
+
+/* Form styles */
+#label, #submitTask {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#formContainer {
+    padding: 5px;
+    /* border: 1px black solid; */
+}
+
+.formElements {
+    display: block;
+}
+
+
+/* Output styles */
+.deleteTask {
+    width: 15px;
+}
+
+li {
+    list-style-type: none;
+    text-indent: -2em;
+}
